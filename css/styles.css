@@ -20,7 +20,7 @@ img{
 
 @media (min-width: 320px) {
     nav {
-        background-color: #322A41;
+        background-color: white
         padding: 5px;
         margin-top: 10px;
         text-align: center;
